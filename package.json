@@ -1,0 +1,15 @@
+{
+  "name": "w-lss",
+  "version": "1.0.0",
+  "description": "简易封装storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "w",
+  "license": "MIT"
+}
